@@ -1,0 +1,14 @@
+C:\Repo\C# Microsoft Cert\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Repo\C# Microsoft Cert\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Repo\C# Microsoft Cert\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Repo\C# Microsoft Cert\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Repo\C# Microsoft Cert\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Repo\C# Microsoft Cert\TestProject\obj\Debug\net7.0\ref\TestProject.dll
