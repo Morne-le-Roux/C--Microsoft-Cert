@@ -1,31 +1,25 @@
-﻿Random dice = new Random();
+﻿Random random = new Random();
+int daysUntilExpiration = random.Next(12);
+int discountPercentage = 0;
 
-int roll1 = dice.Next(1, 7);
-int roll2 = dice.Next(1, 7);
-int roll3 = dice.Next(1, 7);
+// Your code goes here
 
-int total = roll1 + roll2 + roll3;
-
-Console.WriteLine($"Dice Roll: {roll1} + {roll2} + {roll3} = {total}");
-
-if ((roll1 == roll2) || (roll2 == roll3) || roll1 == roll3)
+if (daysUntilExpiration <= 10)
 {
-    Console.WriteLine("You rolled doubles!  +2 to your total!");
-    total += 2;
+    if (daysUntilExpiration <= 5)
+    {
+        if (daysUntilExpiration == 1)
+        {
+            Console.WriteLine($"Your subscription within a day!. /n Renew now and save 20%!");
+        }
+    }
+    else
+    {
+        Console.WriteLine($"Your subscription will end in {daysUntilExpiration} days. /n Renew now and save 10%!");
+    }
+}
+else
+{
+    Console.WriteLine("Your subscription will expire soon. Renew now!");
 }
 
-if ((roll1 == roll2) && (roll2 == roll3))
-{
-    Console.WriteLine("You rolled triples! +6 bonus to total!");
-    total += 6;
-}
-
-if (total > 14)
-{
-    Console.WriteLine("You win!");
-}
-
-if (total < 15)
-{
-    Console.WriteLine("You lose!");
-}
