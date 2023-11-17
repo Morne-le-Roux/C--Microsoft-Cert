@@ -1,0 +1,14 @@
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\morne\OneDrive\Desktop\C# Microsoft Cert\GuidedProject\Starter\obj\Debug\net7.0\ref\Starter.dll
