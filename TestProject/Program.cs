@@ -1,9 +1,7 @@
-﻿string[] orderList = { "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179", };
-
-foreach (var item in orderList)
+﻿for (int i = 0; i < 100; i++)
 {
-    if (item.StartsWith("B"))
-    {
-        Console.WriteLine(item);
-    }
+    if (i % 3 == 0 && i % 5 == 0) Console.WriteLine("FizzBuzz");
+    else if (i % 5 == 0) Console.WriteLine("Buzz");
+    else if (i % 3 == 0) Console.WriteLine("Fizz");
+    else Console.WriteLine(i);
 }
